@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C353%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C353%20hrs%207%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -36,5 +36,5 @@ Windows                  35 hrs 31 mins      ███████████�
 ```
 
 
- Last Updated on 21/07/2025 13:09:25 UTC
+ Last Updated on 21/07/2025 13:53:28 UTC
 <!--END_SECTION:waka-->

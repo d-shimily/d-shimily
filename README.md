@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C305%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C292%20hrs%2036%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -36,5 +36,5 @@ WSL                      6 hrs 10 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 06/11/2025 16:47:54 UTC
+ Last Updated on 06/11/2025 17:39:08 UTC
 <!--END_SECTION:waka-->
